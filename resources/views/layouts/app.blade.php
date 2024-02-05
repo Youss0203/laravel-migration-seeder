@@ -10,7 +10,7 @@
     </head>
     <body>
         @include('layouts.partials.header')
-
+        
         <main>
             @yield('main-content')
         </main>
